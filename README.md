@@ -29,3 +29,5 @@ I've cloned the repository and have added few changes or files and I'd like to p
 3) git add . ; git commit -m "Msg telling what you've done" ; git push
 4) Changes that you have made are pushed
 5) On your server, do a git clone URL the first time and from second time to test, just do a 'git pull'
+
+this is the way how it works..!!
